@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding= "16dp" >
+
+    <TextView
+        android:id="@+id/textModuleCode1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module Code: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textModuleName1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module Name: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textAcademicYear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Academic Year: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textSemester1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Semester: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textModuleCredit1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module Credit: "
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textVenue1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Venue: "
+        android:textSize="16sp" />
+</LinearLayout>

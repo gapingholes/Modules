@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding= "16dp" >
+
+    <TextView
+        android:id="@+id/textWeb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C203 - Web App Development"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textProgram"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C105 - Introduction to Programming"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textSoftware"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C206 - Software Development Process"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textUI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C218 - UI/UX Design"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C346 - Mobile App Development"
+        android:textSize="16sp" />
+</LinearLayout>
+
+
+
